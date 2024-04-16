@@ -32,7 +32,7 @@ app.on("", () => {
     // HTML 콘텐츠 유형
   });
 
-  let responseMessage;
+  let responseMessage {
   res.end();
 });
 
